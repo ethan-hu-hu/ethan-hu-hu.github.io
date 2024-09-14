@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/风险检查.md",
+                "file": "_posts/2024-09-13-welcome-to-jekyll-副本.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/风险检查.md",
+                "file": "_posts/2024-09-13-welcome-to-jekyll-副本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/风险检查.md",
+                "file": "_posts/2024-09-13-welcome-to-jekyll-副本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/风险检查.md"
+                "file": "_posts/2024-09-13-welcome-to-jekyll-副本.md"
               }
             }
           }
@@ -156,12 +156,13 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": true
     }
   },
   "active": "11ba351bcbff4941",
   "lastOpenFiles": [
     "_posts/2024-09-13-welcome-to-jekyll.md",
+    "_posts/2024-09-13-welcome-to-jekyll-副本.md",
     "_posts/风险检查.md",
     "snippets",
     "drafts",
