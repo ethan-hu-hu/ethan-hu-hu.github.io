@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-09-13-微信公众号文章.md",
+                "file": "2024-09-13-钻石模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-13-微信公众号文章.md",
+                "file": "2024-09-13-钻石模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-13-微信公众号文章.md",
+                "file": "2024-09-13-钻石模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-13-微信公众号文章.md"
+                "file": "2024-09-13-钻石模型.md"
               }
             }
           }
@@ -147,5 +147,10 @@
     }
   },
   "active": "ad9582ecebc60169",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "附件/Pasted image 20240919195439.png",
+    "附件",
+    "附件/Pasted image 20240919195322.png",
+    "2024-09-13-钻石模型.md"
+  ]
 }
