@@ -1,14 +1,36 @@
 # Site settings
-title: "但丁的博客"
-email: "ethanstyle007@outlook.com"
-description: "你好，这是我的博客，专注图文分享"
+title: "但丁"
+email: ""
+description: "你好，这是但丁，专注图文"
 baseurl: ""
 url: "https://ethan-hu-hu.github.io" 
-twitter_username: "EthanHu1314"
-github_username: "ethan-hu-hu"
+
+social_links:
+  - title: "Twitter"
+    url: "https://x.com/EthanHu1314"
+  - title: "Subscribe"
+    url: "/subscribe" 
+
+
+
+# Exclude and Include
+
+exclude: # 这里可以列出不希望被处理的文件
+  - Gemfile
+  - Gemfile.lock
+
+include:
+  - pages
+
+# 编码设置
+encoding: UTF-8
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+remote_theme: chesterhow/tale
+permalink:    /:year-:month-:day/:title
+paginate:     5
 
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+  - jekyll-feed
