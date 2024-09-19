@@ -15,17 +15,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 但丁
-email: ethanstyle007@outlook.com
-description: >- #this means to ignore newlines until "baseurl:"
-  你好,这里是我的频道
+title: "但丁"
+email: "ethanstyle007@outlook.com"
+description: >-  #this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @EthanHu1314
-github_username:  
+twitter_username: "@EthanHu1314"
+github_username: 
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
