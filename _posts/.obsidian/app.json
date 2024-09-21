@@ -4,5 +4,7 @@
   "attachmentFolderPath": "附件",
   "newFileLocation": "folder",
   "newFileFolderPath": "Post",
-  "promptDelete": false
+  "promptDelete": false,
+  "showInlineTitle": true,
+  "showRibbon": true
 }
