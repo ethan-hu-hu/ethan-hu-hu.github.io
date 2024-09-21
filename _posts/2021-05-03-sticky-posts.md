@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Sticky Posts"
-author: "Chester"
-tags: Tutorial
+title: Sticky Posts
+author: 但丁
+tags:
+  - Tutorial
 excerpt_separator: <!--more-->
 ---
 
