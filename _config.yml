@@ -5,7 +5,7 @@ baseurl:        ""
 url:            "https://ethan-hu-hu.github.io"
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+#google_analytics: UA—XXXXXXXX-X
 
 
 # Build settings
