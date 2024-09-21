@@ -1,3 +1,5 @@
 {
-  "folder": "/"
+  "folder": "Post",
+  "template": "附件/post模版",
+  "format": "YYYY-MM-DD-"
 }

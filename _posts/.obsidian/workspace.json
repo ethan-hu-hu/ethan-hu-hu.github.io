@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d5ce8c1a5b9659e4",
+        "id": "7b487adc8cea85a2",
         "type": "tabs",
         "children": [
           {
-            "id": "52dd053871f7f986",
+            "id": "112279a3c3c682e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-09-20-公众号文章.md",
+                "file": "Post/2024-09-21-钻石模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 227.5
   },
   "right": {
     "id": "9974ed0eace73d0f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-20-公众号文章.md",
+                "file": "Post/2024-09-21-钻石模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-20-公众号文章.md",
+                "file": "Post/2024-09-21-钻石模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-20-公众号文章.md"
+                "file": "Post/2024-09-21-钻石模型.md"
               }
             }
           }
@@ -141,21 +141,28 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": true,
-      "daily-notes:打开/创建今天的日记": true,
+      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false
     }
   },
-  "active": "52dd053871f7f986",
+  "active": "112279a3c3c682e9",
   "lastOpenFiles": [
-    "2017-03-07-the-case-of-the-missing-post.md",
-    "2017-03-06-the-mystery-of-the-filler-post.md",
-    "2017-03-05-pagination-post.md",
-    "2024-09-20-公众号文章.md",
-    "2021-04-30-managing-excerpt.md",
-    "2021-05-03-sticky-posts.md",
-    "2017-03-16-example-content.md",
+    "Post/2023-02-28-一文了解增值税留抵退税政策.md",
+    "Post/2024-09-21-钻石模型.md",
+    "附件/post模版.md",
+    "Post/2024-09-21-越.md",
+    "Post/202.md",
+    "Post/2021-05-03-sticky-posts.md",
+    "Post/未命名.md",
+    "Post/2017-03-05-pagination-post.md",
+    "Post/2017-03-07-the-case-of-the-missing-post.md",
+    "Post/2017-03-16-example-content.md",
+    "附件/未命名.md",
+    "Post",
+    "Post/2017-03-06-the-mystery-of-the-filler-post.md",
+    "Post/2021-04-30-managing-excerpt.md",
     "附件",
-    "2017-03-10-welcome-to-jekyll.md"
+    "Post/2017-03-10-welcome-to-jekyll.md"
   ]
 }
