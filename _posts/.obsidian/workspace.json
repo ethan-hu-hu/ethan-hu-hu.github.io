@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post/2024-09-21-企业的成本结构.md",
+                "file": "Post/2024-09-21-公众号文章.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/2024-09-21-企业的成本结构.md",
+                "file": "Post/2024-09-21-公众号文章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/2024-09-21-企业的成本结构.md",
+                "file": "Post/2024-09-21-公众号文章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/2024-09-21-企业的成本结构.md"
+                "file": "Post/2024-09-21-公众号文章.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "112279a3c3c682e9",
+  "active": "a54f4f30aa3d5026",
   "lastOpenFiles": [
     "附件/post模版.md",
-    "Post/2024-09-21-企业的成本结构.md",
+    "Post/2024-09-21-公众号文章.md",
     "Post/2023-02-28-一文了解增值税留抵退税政策.md",
     "Post/2024-08-24-聊点游戏.md",
     "Post/2024-08-20-钻石模型.md",
