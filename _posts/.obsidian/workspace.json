@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 289.5085258483887
   },
   "right": {
     "id": "9974ed0eace73d0f",
@@ -86,7 +86,7 @@
               "type": "backlink",
               "state": {
                 "file": "Post/2024-09-22-商品.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -141,26 +141,25 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": true,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "112279a3c3c682e9",
+  "active": "5c04d1531732a737",
   "lastOpenFiles": [
+    "Post/2024-09-23-.md",
+    "Post/2024-09-22-商品.md",
+    "Post/2023-02-28-一文了解增值税留抵退税政策.md",
+    "Post/2024-08-20-钻石模型.md",
+    "Post/2024-08-24-聊点游戏.md",
     "Post/2023-09-24-房产税，您准备好了吗.md",
     "Post/2023-04-07-个人所得税系列：从历史到现在，看个税的变革之路.md",
-    "Post/2023-02-28-一文了解增值税留抵退税政策.md",
     "Post/2024-01-19-蛋糕与包装：关于实质重于形式的思考.md",
     "Post/2024-06-07-选择做自己.md",
     "Post/2024-06-21-异常凭证！.md",
     "Post/2024-08-15-PEST模型.md",
     "Post/2024-08-16-生命周期.md",
-    "Post/2024-08-20-钻石模型.md",
-    "Post/2024-08-24-聊点游戏.md",
-    "Post/2024-09-22-商品.md",
-    "Post/2024-09-23-.md",
     "Post/2024-09-21-公众号文章.md",
     "附件/post模版.md",
     "Post/2024-09-21-越.md",
