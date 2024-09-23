@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55c38a9466920eb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "输入/商品.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.51103591918945
+    "width": 270.51103591918945
   },
   "right": {
     "id": "9974ed0eace73d0f",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/2024-09-21-企业的成本结构.md",
+                "file": "输入/商品.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/2024-09-21-企业的成本结构.md",
+                "file": "输入/商品.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/2024-09-21-企业的成本结构.md"
+                "file": "输入/商品.md"
               }
             }
           }
@@ -146,10 +159,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "112279a3c3c682e9",
+  "active": "55c38a9466920eb8",
   "lastOpenFiles": [
-    "Post/2024-06-07-选择做自己.md",
     "Post/2024-09-21-企业的成本结构.md",
+    "Post/2024-08-20-钻石模型.md",
+    "Post/2024-08-24-聊点游戏.md",
+    "输入/商品.md",
+    "输入",
+    "Post/2024-06-07-选择做自己.md",
     "Post/2023-04-07-个人所得税系列：从历史到现在，看个税的变革之路.md",
     "Post/2023-02-28-一文了解增值税留抵退税政策.md",
     "Post/2023-09-24-房产税，您准备好了吗.md",
@@ -157,13 +174,10 @@
     "Post/2024-06-21-异常凭证！.md",
     "Post/2024-08-15-PEST模型.md",
     "Post/2024-08-16-生命周期.md",
-    "Post/2024-08-20-钻石模型.md",
-    "Post/2024-08-24-聊点游戏.md",
     "附件/post模版.md",
     "Post/2024-09-21-越.md",
     "Post/202.md",
     "Post/2021-05-03-sticky-posts.md",
-    "Post/未命名.md",
     "Post/2017-03-05-pagination-post.md",
     "Post/2017-03-07-the-case-of-the-missing-post.md",
     "Post/2017-03-16-example-content.md",
