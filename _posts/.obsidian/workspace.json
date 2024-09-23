@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "64f5aa586cb4a4d4",
+    "id": "85dbaaa422256d27",
     "type": "split",
     "children": [
       {
-        "id": "7b487adc8cea85a2",
+        "id": "b85b31fbe1065c93",
         "type": "tabs",
         "children": [
           {
-            "id": "112279a3c3c682e9",
+            "id": "2eda5c989a8cfd3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "614aea820fef2b35",
+    "id": "a634f0d0d7e654fb",
     "type": "split",
     "children": [
       {
-        "id": "1a0e4ca97f9e0f23",
+        "id": "17b9c1a81ca77ace",
         "type": "tabs",
         "children": [
           {
-            "id": "a54f4f30aa3d5026",
+            "id": "7eba97f5e86b5651",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "8a2b4beec7804207",
+            "id": "783154894615ea02",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "1b8c67e0c0c7c1ec",
+            "id": "3d92eb79bbc40393",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,18 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 300
   },
   "right": {
-    "id": "9974ed0eace73d0f",
+    "id": "26777a449db6b4cd",
     "type": "split",
     "children": [
       {
-        "id": "b1d653953f9b8cb5",
+        "id": "36c6c997087a9c86",
         "type": "tabs",
         "children": [
           {
-            "id": "5c04d1531732a737",
+            "id": "0d45f2870f10a327",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "e3d9ca9ed14ff2ba",
+            "id": "b093b020348448d9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "98cd3d372c43dad2",
+            "id": "1c7e86513aa8207d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "86adae3055d1c9bd",
+            "id": "196802668108ac03",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -140,41 +140,15 @@
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": true,
-      "daily-notes:打开/创建今天的日记": false,
+      "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "112279a3c3c682e9",
+  "active": "7eba97f5e86b5651",
   "lastOpenFiles": [
-    "Post/2023-09-24-房产税，您准备好了吗.md",
-    "Post/2023-04-07-个人所得税系列：从历史到现在，看个税的变革之路.md",
-    "Post/2023-02-28-一文了解增值税留抵退税政策.md",
-    "Post/2024-01-19-蛋糕与包装：关于实质重于形式的思考.md",
-    "Post/2024-06-07-选择做自己.md",
-    "Post/2024-06-21-异常凭证！.md",
-    "Post/2024-08-15-PEST模型.md",
-    "Post/2024-08-16-生命周期.md",
-    "Post/2024-08-20-钻石模型.md",
-    "Post/2024-08-24-聊点游戏.md",
-    "Post/2024-09-22-商品.md",
-    "Post/2024-09-23-.md",
-    "Post/2024-09-21-公众号文章.md",
-    "附件/post模版.md",
-    "Post/2024-09-21-越.md",
-    "Post/202.md",
-    "Post/2021-05-03-sticky-posts.md",
-    "Post/未命名.md",
-    "Post/2017-03-05-pagination-post.md",
-    "Post/2017-03-07-the-case-of-the-missing-post.md",
-    "Post/2017-03-16-example-content.md",
-    "附件/未命名.md",
-    "Post",
-    "Post/2017-03-06-the-mystery-of-the-filler-post.md",
-    "Post/2021-04-30-managing-excerpt.md",
-    "附件",
-    "Post/2017-03-10-welcome-to-jekyll.md"
+    "Post/2024-09-21-企业的成本结构.md",
+    "Post/2024-09-22-商品.md"
   ]
 }
