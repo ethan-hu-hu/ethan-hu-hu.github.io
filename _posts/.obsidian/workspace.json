@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b85b31fbe1065c93",
+        "id": "ca234326e7b52057",
         "type": "tabs",
         "children": [
           {
-            "id": "2eda5c989a8cfd3f",
+            "id": "0d8658942da6eba9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,8 +146,13 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "2eda5c989a8cfd3f",
+  "active": "0d8658942da6eba9",
   "lastOpenFiles": [
+    "Users/danding/Library/Application.md",
+    "Post/2024-09-26-税务自查｜如何撰写自查报告（模版）.md",
+    "Users/danding/Library",
+    "Users/danding",
+    "Users",
     "附件/post模版.md",
     "素材/商品.md",
     "Post/2024-08-20-钻石模型.md",
@@ -159,7 +164,6 @@
     "Post/2023-09-24-房产税，您准备好了吗.md",
     "Post/2023-04-07-个人所得税系列：从历史到现在，看个税的变革之路.md",
     "Post/2023-02-28-一文了解增值税留抵退税政策.md",
-    "Post/2024-09-26-税务自查｜如何撰写自查报告（模版）.md",
     "Post/2024-09-22-商品.md",
     "Post/2024-08-24-聊点游戏.md",
     "Post/2024-09-21-企业的成本结构.md"
