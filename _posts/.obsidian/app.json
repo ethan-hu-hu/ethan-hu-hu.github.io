@@ -1,10 +1,10 @@
 {
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": false,
-  "attachmentFolderPath": "附件",
+  "attachmentFolderPath": "",
   "newFileLocation": "folder",
   "newFileFolderPath": "Post",
-  "promptDelete": true,
+  "promptDelete": false,
   "showInlineTitle": true,
   "showRibbon": true
 }

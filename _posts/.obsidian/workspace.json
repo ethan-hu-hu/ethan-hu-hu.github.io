@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post/2024-10-01-.md",
+                "file": "Post/2024-10-01-插入图片设置.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/2024-10-01-.md",
+                "file": "Post/2024-10-01-插入图片设置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/2024-10-01-.md",
+                "file": "Post/2024-10-01-插入图片设置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/2024-10-01-.md"
+                "file": "Post/2024-10-01-插入图片设置.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "0d8658942da6eba9",
   "lastOpenFiles": [
+    "images/image-20241001162541286.png",
+    "images/image-20241001161706510.png",
+    "images",
+    "附件/Pasted image 20241001161504.png",
+    "附件/post模版.md",
+    "Post/2024-10-01-插入图片设置.md",
+    "附件/Pasted image 20241001160105.png",
     "附件/Pasted image 20241001154723.png",
     "附件/Pasted image 20241001154657.png",
     "附件/Pasted image 20241001154648.png",
@@ -162,7 +169,6 @@
     "Users/danding/Library",
     "Users/danding",
     "Users",
-    "附件/post模版.md",
     "Post/2024-08-16-生命周期.md",
     "Post/2024-08-15-PEST模型.md",
     "Post/2024-06-07-选择做自己.md",
