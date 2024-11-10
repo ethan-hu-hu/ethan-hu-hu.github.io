@@ -1,22 +1,22 @@
 # Site settings
-title:          "Dan丁" 
-description:    "这里是但丁，一个专注图文的网站" 
-baseurl:        "" 
-url:            "https://ethan-hu-hu.github.io" 
+title: "Dan丁"
+description: "这里是但丁，一个专注图文的网站"
+baseurl: ""
+url: "https://ethan-hu-hu.github.io"
 
 # Google Analytics
 #google_analytics: UA—XXXXXXXX-X
 
 
 # Build settings
-markdown:       kramdown
+markdown:  kramdown
 include:
   - _pages
 
 # Assets
 sass:
-  sass_dir:     _sass
-  style:        compressed
+  sass_dir: _sass
+  style: compressed
 
 # Gems
 plugins:
