@@ -1,10 +1,12 @@
 {
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": false,
-  "attachmentFolderPath": "",
+  "attachmentFolderPath": "images",
   "newFileLocation": "folder",
   "newFileFolderPath": "Post",
   "promptDelete": false,
   "showInlineTitle": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "readableLineLength": true,
+  "showLineNumber": false
 }
