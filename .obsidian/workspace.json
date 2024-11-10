@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "85dbaaa422256d27",
+    "id": "1700c006f9cfd069",
     "type": "split",
     "children": [
       {
-        "id": "f0f53bf33d988d21",
+        "id": "c0e91cb7c5658792",
         "type": "tabs",
         "children": [
           {
-            "id": "da7e8955a8255ff7",
+            "id": "f4cf3abff08056c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post/2024-08-24-聊点游戏.md",
+                "file": "_posts/Post/2024-11-10-Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-08-24-聊点游戏"
+              "title": "2024-11-10-Test"
             }
           }
         ]
@@ -27,27 +27,27 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a634f0d0d7e654fb",
+    "id": "a957334f30fe6001",
     "type": "split",
     "children": [
       {
-        "id": "17b9c1a81ca77ace",
+        "id": "423d2d3408e84b9c",
         "type": "tabs",
         "children": [
           {
-            "id": "7eba97f5e86b5651",
+            "id": "1e63af0e1e4c74b1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
             }
           },
           {
-            "id": "783154894615ea02",
+            "id": "d302ec0198d2e4be",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "3d92eb79bbc40393",
+            "id": "d3162e7429766ef4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,22 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 305.5026054382324
   },
   "right": {
-    "id": "26777a449db6b4cd",
+    "id": "14eaa3a1698861da",
     "type": "split",
     "children": [
       {
-        "id": "36c6c997087a9c86",
+        "id": "6458f5a26b2c3e08",
         "type": "tabs",
         "children": [
           {
-            "id": "0d45f2870f10a327",
+            "id": "fd0731a75a48e827",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/附件/post模版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,24 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "post模版 的反向链接列表"
             }
           },
           {
-            "id": "b093b020348448d9",
+            "id": "aa369081fecb8b85",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/附件/post模版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "post模版 的出链列表"
             }
           },
           {
-            "id": "1c7e86513aa8207d",
+            "id": "3eeef067117af09c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,13 +134,15 @@
             }
           },
           {
-            "id": "196802668108ac03",
+            "id": "cec3b1d1ecc9604f",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "_posts/附件/post模版.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "post模版 的大纲"
             }
           }
         ]
@@ -153,48 +157,41 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "zk-prefixer:创建时间戳笔记": false
+      "daily-notes:打开/创建今天的日记": true,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": true,
+      "zk-prefixer:创建时间戳笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "da7e8955a8255ff7",
+  "active": "f4cf3abff08056c0",
   "lastOpenFiles": [
-    "Post/2024-11-10-Test.md",
-    "images/Pasted image 20241110222350.png",
-    "Post/2024-09-26-税务自查｜如何撰写自查报告（模版）.md",
-    "Users/danding/Library/Application.md",
-    "Users/danding/Library",
-    "Users/danding",
-    "Users",
-    "Post/2024-09-27-权利、金钱、欲望｜互联网的力量.md",
-    "附件/post模版.md",
-    "Post/2024-09-22-商品.md",
-    "Post/2024-08-15-PEST模型.md",
-    "Post/2024-10-01-插入图片设置.md",
-    "Post/2023-02-28-一文了解增值税留抵退税政策.md",
-    "附件",
-    "未命名.canvas",
-    "未命名 1.canvas",
-    "素材/商品.md",
-    "images/image-20241001162541286.png",
-    "images/wps1.jpg",
-    "images/image-20241001161706510.png",
-    "images",
-    "附件/Pasted image 20241001161504.png",
-    "附件/Pasted image 20241001160105.png",
-    "附件/Pasted image 20241001154723.png",
-    "附件/Pasted image 20241001154657.png",
-    "附件/Pasted image 20241001154648.png",
-    "Post/2024-08-24-聊点游戏.md",
-    "Post/2024-10-01-.md",
-    "Post/2024-08-20-钻石模型.md",
-    "Post/2024-08-16-生命周期.md",
-    "Post/2024-06-07-选择做自己.md",
-    "Post/2024-06-21-异常凭证！.md",
-    "Post/2024-01-19-蛋糕与包装：关于实质重于形式的思考.md",
-    "Post/2023-09-24-房产税，您准备好了吗.md",
-    "Post/2023-04-07-个人所得税系列：从历史到现在，看个税的变革之路.md",
-    "Post/2024-09-21-企业的成本结构.md"
+    "_site/images/Pasted image 20241110230544.png",
+    "images/Pasted image 20241110230544.png",
+    "_site/images/Pasted image 20241110230523.png",
+    "images/Pasted image 20241110230523.png",
+    "_site/images/Pasted image 20241110225524_副本.png",
+    "images/Pasted image 20241110225524_副本.png",
+    "images/广东省交通运输厅广东省发展改革委广东省财政厅关于调整高速公路车辆通行费计费方式有关事宜的通知.pdf.md",
+    "images/Pasted.md",
+    "_site/images/广东省交通运输厅广东省发展改革委广东省财政厅关于调整高速公路车辆通行费计费方式有关事宜的通知.pdf.md",
+    "_posts/Post/2024-11-10-Test.md",
+    "images/广东省交通运输厅.md",
+    "_site/images/广东省交通运输厅.md",
+    "images/广东省交通运输厅 广东省发展改革委 广东省财政厅关于调整高速公路车辆通行费计费方式有关事宜的通知.pdf",
+    "_site/images/Pasted.md",
+    "_site/images/Pasted image 20241110225650.png",
+    "images/Pasted image 20241110225650.png",
+    "_site/images/Pasted image 20241110225607.png",
+    "images/Pasted image 20241110225607.png",
+    "_site/images/Pasted image 20241110225524.png",
+    "_site/images/广东省交通运输厅 广东省发展改革委 广东省财政厅关于调整高速公路车辆通行费计费方式有关事宜的通知.pdf",
+    "_site/images",
+    "_posts/附件/post模版.md",
+    "_posts/Post/2024-11-11-.md",
+    "_posts/素材/商品.md",
+    "README.md",
+    "CODE_OF_CONDUCT.md",
+    "_posts/Post/2023-02-28-一文了解增值税留抵退税政策.md"
   ]
 }
