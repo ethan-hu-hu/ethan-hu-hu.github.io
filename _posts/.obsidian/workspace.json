@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ca234326e7b52057",
+        "id": "01404d831a858ee5",
         "type": "tabs",
         "children": [
           {
-            "id": "0d8658942da6eba9",
+            "id": "dbfbbe8cfe6e170d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post/2024-10-01-插入图片设置.md",
+                "file": "Post/2024-09-26-税务自查｜如何撰写自查报告（模版）.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-09-26-税务自查｜如何撰写自查报告（模版）"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -85,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/2024-10-01-插入图片设置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +100,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
             }
           },
           {
@@ -102,10 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/2024-10-01-插入图片设置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "出链"
             }
           },
           {
@@ -116,7 +126,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -124,9 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Post/2024-10-01-插入图片设置.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           }
         ]
@@ -146,22 +158,25 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "0d8658942da6eba9",
+  "active": "7eba97f5e86b5651",
   "lastOpenFiles": [
+    "Post/2024-09-27-权利、金钱、欲望｜互联网的力量.md",
+    "Post/2024-10-01-插入图片设置.md",
+    "Post/2023-02-28-一文了解增值税留抵退税政策.md",
+    "素材/商品.md",
     "images/image-20241001162541286.png",
+    "images/wps1.jpg",
     "images/image-20241001161706510.png",
+    "Post/未命名.md",
     "images",
     "附件/Pasted image 20241001161504.png",
     "附件/post模版.md",
-    "Post/2024-10-01-插入图片设置.md",
     "附件/Pasted image 20241001160105.png",
     "附件/Pasted image 20241001154723.png",
     "附件/Pasted image 20241001154657.png",
     "附件/Pasted image 20241001154648.png",
     "Post/2024-08-24-聊点游戏.md",
-    "素材/商品.md",
     "Post/2024-10-01-.md",
-    "Post/2024-09-27-权利、金钱、欲望｜互联网的力量.md",
     "Post/2024-09-26-税务自查｜如何撰写自查报告（模版）.md",
     "Post/2024-09-22-商品.md",
     "Post/2024-08-20-钻石模型.md",
@@ -176,7 +191,6 @@
     "Post/2024-01-19-蛋糕与包装：关于实质重于形式的思考.md",
     "Post/2023-09-24-房产税，您准备好了吗.md",
     "Post/2023-04-07-个人所得税系列：从历史到现在，看个税的变革之路.md",
-    "Post/2023-02-28-一文了解增值税留抵退税政策.md",
     "Post/2024-09-21-企业的成本结构.md"
   ]
 }

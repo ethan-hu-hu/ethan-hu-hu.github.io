@@ -1,7 +1,7 @@
 {
-  "cssTheme": "Minimal",
-  "theme": "obsidian",
-  "baseFontSize": 18,
+  "cssTheme": "Obsidian Nord",
+  "theme": "system",
+  "baseFontSize": 17,
   "baseFontSizeAction": true,
   "accentColor": "#f79b45",
   "showViewHeader": false
