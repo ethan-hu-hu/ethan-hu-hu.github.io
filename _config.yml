@@ -34,7 +34,7 @@ exclude:
   - Gemfile, 
   - Gemfile.lock
   - tale.gemspec
-  - _posts/images
+  - images
 
 # Disqus (Set to your disqus id)
 disqus:         jekyll-tale
