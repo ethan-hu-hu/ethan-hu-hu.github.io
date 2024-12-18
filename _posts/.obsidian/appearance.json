@@ -1,8 +1,9 @@
 {
-  "cssTheme": "Obsidian Nord",
-  "theme": "system",
+  "cssTheme": "Typewriter",
+  "theme": "moonstone",
   "baseFontSize": 16,
   "baseFontSizeAction": true,
   "accentColor": "#f79b45",
-  "showViewHeader": false
+  "showViewHeader": false,
+  "textFontFamily": "Arial"
 }
