@@ -1,9 +1,9 @@
 {
-  "cssTheme": "Typewriter",
-  "theme": "moonstone",
+  "cssTheme": "ITS Theme",
+  "theme": "system",
   "baseFontSize": 16,
   "baseFontSizeAction": true,
-  "accentColor": "#f79b45",
+  "accentColor": "",
   "showViewHeader": false,
   "textFontFamily": "Arial"
 }

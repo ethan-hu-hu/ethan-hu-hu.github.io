@@ -1,36 +1,24 @@
 {
   "main": {
-    "id": "85dbaaa422256d27",
+    "id": "517c0e472c3ecb0a",
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-        "id": "e937fd7a2803ddf4",
+        "id": "e6f7e5b5549aa2ce",
         "type": "tabs",
         "children": [
           {
-            "id": "c51ec4373fca287e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-=======
-        "id": "e6b299cc76378660",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "02b8e4b7f64fc0bf",
+            "id": "f98d705f2f69426f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post/2023-02-28-一文了解增值税留抵退税政策.md",
+                "file": "Post/2023-04-07-个人所得税系列：从历史到现在，看个税的变革之路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2023-02-28-一文了解增值税留抵退税政策"
->>>>>>> Stashed changes
+              "title": "2023-04-07-个人所得税系列：从历史到现在，看个税的变革之路"
             }
           }
         ]
@@ -39,25 +27,27 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a634f0d0d7e654fb",
+    "id": "9a91b96c8ffaa05a",
     "type": "split",
     "children": [
       {
-        "id": "17b9c1a81ca77ace",
+        "id": "ead027990f796da6",
         "type": "tabs",
         "children": [
           {
-            "id": "7eba97f5e86b5651",
+            "id": "e6b7b1e4458e9eea",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
-              }
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
-            "id": "783154894615ea02",
+            "id": "c4b0dd1ba329c952",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,37 +58,42 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
-            "id": "3d92eb79bbc40393",
+            "id": "ff73a48e0079e7f5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 364.5
   },
   "right": {
-    "id": "26777a449db6b4cd",
+    "id": "d72c7fba5cc349ff",
     "type": "split",
     "children": [
       {
-        "id": "36c6c997087a9c86",
+        "id": "090d6a8ebc923325",
         "type": "tabs",
         "children": [
           {
-            "id": "0d45f2870f10a327",
+            "id": "3a2e3cf0c075734d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Post/2023-04-07-个人所得税系列：从历史到现在，看个税的变革之路.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,37 +101,48 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "2023-04-07-个人所得税系列：从历史到现在，看个税的变革之路 的反向链接列表"
             }
           },
           {
-            "id": "b093b020348448d9",
+            "id": "50689da660273122",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Post/2023-04-07-个人所得税系列：从历史到现在，看个税的变革之路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "2023-04-07-个人所得税系列：从历史到现在，看个税的变革之路 的出链列表"
             }
           },
           {
-            "id": "1c7e86513aa8207d",
+            "id": "849ffcd9a73e96d4",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
-            "id": "196802668108ac03",
+            "id": "b7c8c4524ac2611e",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Post/2023-04-07-个人所得税系列：从历史到现在，看个税的变革之路.md"
+              },
+              "icon": "lucide-list",
+              "title": "2023-04-07-个人所得税系列：从历史到现在，看个税的变革之路 的大纲"
             }
           }
         ]
@@ -156,49 +162,13 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "c51ec4373fca287e",
-  "lastOpenFiles": [
-    "Post/2024-08-24-聊点游戏.md",
-=======
-  "active": "02b8e4b7f64fc0bf",
+  "active": "f98d705f2f69426f",
   "lastOpenFiles": [
     "Post/2023-09-24-房产税，您准备好了吗.md",
-    "Post/2024-06-07-选择做自己.md",
-    "Post/2024-09-22-商品.md",
-    "Post/2024-08-16-生命周期.md",
->>>>>>> Stashed changes
-    "Post/2024-11-10-Test.md",
-    "Post/2024-09-26-税务自查｜如何撰写自查报告（模版）.md",
-    "Post/2024-08-24-聊点游戏.md",
-    "Post/2024-08-20-钻石模型.md",
-    "images/Pasted image 20241110222350.png",
-    "Users/danding/Library/Application.md",
-    "Users/danding/Library",
-    "Users/danding",
-    "Users",
-    "Post/2024-09-27-权利、金钱、欲望｜互联网的力量.md",
     "附件/post模版.md",
-    "Post/2024-08-15-PEST模型.md",
-    "Post/2024-10-01-插入图片设置.md",
     "Post/2023-02-28-一文了解增值税留抵退税政策.md",
-    "附件",
-    "未命名.canvas",
-    "未命名 1.canvas",
     "素材/商品.md",
-    "images/image-20241001162541286.png",
-    "images/wps1.jpg",
-    "images/image-20241001161706510.png",
-    "images",
-    "附件/Pasted image 20241001161504.png",
-    "附件/Pasted image 20241001160105.png",
-    "附件/Pasted image 20241001154723.png",
-    "附件/Pasted image 20241001154657.png",
-    "附件/Pasted image 20241001154648.png",
-    "Post/2024-10-01-.md",
-    "Post/2024-06-21-异常凭证！.md",
-    "Post/2024-01-19-蛋糕与包装：关于实质重于形式的思考.md",
-    "Post/2023-04-07-个人所得税系列：从历史到现在，看个税的变革之路.md",
-    "Post/2024-09-21-企业的成本结构.md"
+    "Post/2024-09-27-权利、金钱、欲望｜互联网的力量.md",
+    "Post/2024-12-12-.md"
   ]
 }
